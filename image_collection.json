@@ -1,0 +1,8 @@
+{
+    "oval": ["ovalspecs.jpeg","ovalcut.jpeg"],
+    "round": ["roundspecs.jpeg","roundcut.jpeg"],
+    "square": ["img1_square.png", "img2_square.png", "img3_square.png"],
+    "heart": ["img1_heart.png", "img2_heart.png", "img3_heart.png"],
+    "rectangular": ["img1_rectangular.png", "img2_rectangular.png", "img3_rectangular.png"],
+    "oblong": ["img1_oblong.png", "img2_oblong.png", "img3_oblong.png"]
+}
